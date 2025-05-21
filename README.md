@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TRANDUYANHHH
+- 👋 Hi, I’m tranDuyAnh from Vietnam
 - 👀 I’m interested in coding and football (Leo Messi is the GOAT)
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
