@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TRANDUYANHHH
-- 👀 I’m interested in codeing and football (Leo Messi is the GOAT)
+- 👀 I’m interested in coding and football (Leo Messi is the GOAT)
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
