@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duy Anh</h1>
-<h3 align="center">tôi chỉ là một người ngẫu nhiên đang cố gắng để trở nên tốt hơn trong việc giải quyết vấn đề. Tôi thích công nghệ, thích lập trình thi đấu, và tôi muốn làm một điều gì đó với những thứ này.</h3>
+<h3 align="center">I’m just an ordinary person trying to get better at problem-solving. I love technology and competitive programming, and I want to do something with them.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:duyanhbs2019@gmail.com</h3>
 <p align="left">
 </p>
 
